@@ -1,65 +1,62 @@
-nav{
-	font-size: 20px;
-	background-color: #D3D3D3;
-	padding-right: 60px;
-	padding-left: 60px;
-	height: 40px;
-	float: top;
-	position: static;
-	padding-top: 30px;
-	font-style: "Arial";
-}
-a{
-	text-decoration: none;
+nav {
+    font-size: 20px;
+    background-color: #D3D3D3;
+    padding-right: 60px;
+    padding-left: 60px;
+    height: 40px;
+    float: top;
+    position: static;
+    padding-top: 30px;
+    font-style: "Arial";
 }
 
-
-.navlinks{
-color: purple;
-float: right;
-
-}
-.inputelements{
-	height: 25px;
-	position: relative;
-	top:150px;
-	left: 200px;
-	color: grey;
-	font-size: 20px;
-	font-style: "Arial";
-
-}
-.inputbuttons{
-	position: relative;
-	top: 250px;
-	left: 200px;
-	font-size: 20px;
-	font-style: "Arial";
-	
-	padding: 15px 32px;
-
-}
-.black{
-	color: black;
+a {
+    text-decoration: none;
 }
 
-.listing{
-	font-size: 20px;
-	font-style: "Arial";
-	position: relative;
-	top:400px;
-	left: 200px;
-	color: grey;
-	padding-bottom: 30px;
-
+.navlinks {
+    color: purple;
+    float: right;
 }
 
-.blue{
-	color: blue;
-	font-size: 20px;
-}
-.i:hover
-{
-	color: yellow;
+.inputelements {
+    height: 25px;
+    position: relative;
+    top: 150px;
+    left: 200px;
+    color: grey;
+    font-size: 20px;
+    font-style: "Arial";
 }
 
+.inputbuttons {
+    position: relative;
+    top: 250px;
+    left: 200px;
+    font-size: 20px;
+    font-style: "Arial";
+    padding: 15px 32px;
+}
+
+.black {
+    color: black;
+}
+
+.listing {
+    font-size: 20px;
+    font-style: "Arial";
+    position: relative;
+    top: 400px;
+    left: 200px;
+    color: grey;
+    padding-bottom: 30px;
+}
+
+.blue {
+    color: blue;
+    font-size: 20px;
+}
+
+.i:hover {
+    color: yellow;
+}
