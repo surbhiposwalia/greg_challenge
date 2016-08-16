@@ -29,10 +29,12 @@ a {
     font-style: "Arial";
 }
 
+.btnsalignment{
+    margin-top: 250px;
+    margin-left: 200px;
+}
+
 .inputbuttons {
-    position: relative;
-    top: 250px;
-    left: 200px;
     font-size: 20px;
     font-style: "Arial";
     padding: 15px 32px;
@@ -42,14 +44,17 @@ a {
     color: black;
 }
 
+.listingplace{
+    margin-top: 130px;
+    
+}
+
 .listing {
     font-size: 20px;
     font-style: "Arial";
-    position: relative;
-    top: 400px;
-    left: 200px;
     color: grey;
     padding-bottom: 30px;
+    margin-left: 200px;
 }
 
 .blue {
